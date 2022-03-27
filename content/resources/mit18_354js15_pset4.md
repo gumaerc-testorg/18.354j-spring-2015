@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
+parent_uid: b93750ce-9eb6-2e0d-2d9a-a7ba7e1919c4
 resourcetype: Document
 title: 'Nonlinear Dynamics II: Continuum Systems, Problem Set 4'
 uid: 20b1da1b-1bd2-7b82-bec1-acc3215fcd9f
