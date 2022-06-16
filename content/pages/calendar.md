@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The calendar lists the topics for each lecture session and key dates
+  for problem sets, mid-term exam, and the final project.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
