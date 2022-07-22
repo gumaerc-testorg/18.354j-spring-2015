@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, problem sets, exams, the final project,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: af10bb11-d564-c668-ade8-9bfc57931157
 ---
@@ -34,7 +39,7 @@ Acheson, D. J. _Elementary Fluid Dynamics_. Oxford University Press, 1990. ISBN:
 Problem Sets
 ------------
 
-Homework will be assigned roughly every two-three weeks. Each homework set will contain analytical and computational problems, and even the odd experiment. Assignments must be handed in by the start of class on the due date. The first unexcused late homework score will be multiplied by 75%. No subsequent unexcused late homework is accepted. You are welcome to discuss solution strategies and even solutions, but please write up the solution on your own. Be sure to support your answer by listing any relevant Theorems or by explaining important steps. Be as clear and concise as possible. I strongly encourage the computational problems to be written in MATLAB®.
+Homework will be assigned roughly every two-three weeks. Each homework set will contain analytical and computational problems, and even the odd experiment. Assignments must be handed in by the start of class on the due date. The first unexcused late homework score will be multiplied by 75%. No subsequent unexcused late homework is accepted. You are welcome to discuss solution strategies and even solutions, but please write up the solution on your own. Be sure to support your answer by listing any relevant Theorems or by explaining important steps. Be as clear and concise as possible. I strongly encourage the computational problems to be written in MATLAB{{< sup "®" >}}.
 
 Mid-term Exam
 -------------
