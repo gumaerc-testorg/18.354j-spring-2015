@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a file that contains information regarding nonlinear dynamics
   II: continuum systems MidtermExam.'
 file: /courses/18-354j-nonlinear-dynamics-ii-continuum-systems-spring-2015/881df64cb54d4a2505ded137701c9b18_MIT18_354JS15_MidtermExam.pdf
+file_size: 286833
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
