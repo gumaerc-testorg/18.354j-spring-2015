@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-354j-nonlinear-dynamics-ii-continuum-systems-spring-2015/6163837c5efa5d6ed969e535ec8f890c_MIT18_354JS15_lectureNotes.pdf
+file: /ol-ocw-studio-app/courses/18-354j-nonlinear-dynamics-ii-continuum-systems-spring-2015/6163837c5efa5d6ed969e535ec8f890c_MIT18_354JS15_lectureNotes.pdf
 file_size: 2419378
 file_type: application/pdf
 learning_resource_types:
