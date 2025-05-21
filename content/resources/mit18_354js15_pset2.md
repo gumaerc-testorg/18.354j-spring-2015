@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a file that contains information regarding nonlinear dynamics
   II: continuum systems problem set 2.'
-file: /ol-ocw-studio-app/courses/18-354j-nonlinear-dynamics-ii-continuum-systems-spring-2015/2d1cd33e5d2fcb98fb6813d9c976bf2f_MIT18_354JS15_PSet2.pdf
+file: /courses/18-354j-nonlinear-dynamics-ii-continuum-systems-spring-2015/2d1cd33e5d2fcb98fb6813d9c976bf2f_MIT18_354JS15_PSet2.pdf
 file_size: 231187
 file_type: application/pdf
 learning_resource_types: []
