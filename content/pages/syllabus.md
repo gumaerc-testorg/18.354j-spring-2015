@@ -34,7 +34,7 @@ Textbook
 --------
 
 Although there are no textbooks which follow the precise spirit of this course, there are literally hundreds of textbooks where the topics we will cover are discussed. For most lectures, typed notes are available. One book that will be useful frequently is:  
-Acheson, D. J. _Elementary Fluid Dynamics_. Oxford University Press, 1990. ISBN: 9780198596608. \[Preview with {{% resource_link "ff86d683-b1cc-4a39-b0a1-366604fe37c1" "Google Books" %}}\]
+Acheson, D. J. _Elementary Fluid Dynamics_. Oxford University Press, 1990. ISBN: 9780198596608. \[Preview with [Google Books](http://books.google.com/books?id=qLtrBgAAQBAJ&pg=PAfrontcover)\]
 
 Problem Sets
 ------------
